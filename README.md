@@ -58,19 +58,19 @@ Um grande agradecimento aos membros abaixo por seu trabalho incrível e contribu
 
 
 <div style="text-align:; font-weight: bold; margin-bottom: 10px;">
-  ㅤlockerㅤㅤJunkyeㅤ ㅤHaxizinㅤㅤㅤMagrinㅤㅤㅤㅤNielㅤㅤGorducho
+  ㅤlockerㅤㅤJunkyeㅤ ㅤHaxizinㅤㅤㅤ
 </div>
 
 <table>
   <tr>
     <td style="text-align: center; margin-right: 20px;">
       <a href="https://www.instagram.com/raonylz">
-        <img src="https://i.imgur.com/25Qrvbh.png" alt="Lock" style="width: 50px; height: 50px;">
+        <img src="" alt="Lock" style="width: 50px; height: 50px;">
       </a>
     </td>
     <td style="text-align: center; margin-right: 20px;">
       <a href="[https://discord.gg/bytexunk]">
-        <img src="https://i.imgur.com/DkHpc3a.jpeg" alt="Haxizin" style="width: 50px; height: 50px; object-fit: cover;">
+        <img src="https://media.discordapp.net/attachments/1397742066762776596/1435834793362325564/IMG_6850.jpg?ex=690d68db&is=690c175b&hm=0d70372657ae20e08a65595f56afe6551956851378277b0b65ab2371ca83a38e&=&format=webp&width=662&height=662" alt="Haxizin" style="width: 50px; height: 50px; object-fit: cover;">
       </a>
     </td>
     <td style="text-align: center; margin-right: 20px;">
