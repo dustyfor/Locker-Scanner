@@ -2,10 +2,6 @@
 
 <p align="center">
 
-<picture>
-  <img alt="ReadmeAI Logo" src="https://i.imgur.com/QRlCrO3.png" width="60%">
-</picture>
-
 </p>
 
 <p align="center">
