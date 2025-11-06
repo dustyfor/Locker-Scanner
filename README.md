@@ -52,34 +52,30 @@ O projeto tem como principal função facilitar o trabalho dos analistas em suas
 
 #### <img width="2%" src="https://simpleicons.org/icons/termius.svg">&emsp13; Após abrir o Termux, dividindo a tela com o pareamento wifi aberto, rode os comandos abaixo:
 
-```sh
-❯ adb pair localhost:porta codigopareamento
-
-
 ## Agradecimentos
 
 Um grande agradecimento aos membros abaixo por seu trabalho incrível e contribuições sobre bypass:
 
 
 <div style="text-align:; font-weight: bold; margin-bottom: 10px;">
-  ㅤKellerㅤㅤSheikㅤ ㅤRibeiroㅤㅤㅤPxㅤㅤㅤㅤHgㅤㅤApela
+  ㅤlockerㅤㅤJunkyeㅤ ㅤHaxizinㅤㅤㅤMagrinㅤㅤㅤㅤNielㅤㅤGorducho
 </div>
 
 <table>
   <tr>
     <td style="text-align: center; margin-right: 20px;">
-      <a href="https://www.instagram.com/kellerffx">
-        <img src="https://i.imgur.com/25Qrvbh.png" alt="kellerSS" style="width: 50px; height: 50px;">
+      <a href="https://www.instagram.com/raonylz">
+        <img src="https://i.imgur.com/25Qrvbh.png" alt="Lock" style="width: 50px; height: 50px;">
       </a>
     </td>
     <td style="text-align: center; margin-right: 20px;">
-      <a href="https://discord.gg/allianceoficial">
-        <img src="https://i.imgur.com/DkHpc3a.jpeg" alt="sheik" style="width: 50px; height: 50px; object-fit: cover;">
+      <a href="[https://discord.gg/bytexunk]">
+        <img src="https://i.imgur.com/DkHpc3a.jpeg" alt="Haxizin" style="width: 50px; height: 50px; object-fit: cover;">
       </a>
     </td>
     <td style="text-align: center; margin-right: 20px;">
-      <a href="https://www.instagram.com/Ribeirowxz">
-        <img src="https://i.imgur.com/xqmiMSG.png" alt="ribeiro" style="width: 50px; height: 50px;">
+      <a href="https://www.instagram.com/vitin1yx">
+        <img src="https://i.imgur.com/xqmiMSG.png" alt="Junkye" style="width: 50px; height: 50px;">
       </a>
     </td>
     <td style="text-align: center;">
