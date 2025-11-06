@@ -55,3 +55,34 @@ O projeto tem como principal função facilitar o trabalho dos analistas em suas
 ```sh
 ❯ adb pair localhost:porta codigopareamento
 
+
+## Agradecimentos
+
+Um grande agradecimento aos membros abaixo por seu trabalho incrível e contribuições sobre bypass:
+
+
+<div style="text-align:; font-weight: bold; margin-bottom: 10px;">
+  ㅤKellerㅤㅤSheikㅤ ㅤRibeiroㅤㅤㅤPxㅤㅤㅤㅤHgㅤㅤApela
+</div>
+
+<table>
+  <tr>
+    <td style="text-align: center; margin-right: 20px;">
+      <a href="https://www.instagram.com/kellerffx">
+        <img src="https://i.imgur.com/25Qrvbh.png" alt="kellerSS" style="width: 50px; height: 50px;">
+      </a>
+    </td>
+    <td style="text-align: center; margin-right: 20px;">
+      <a href="https://discord.gg/allianceoficial">
+        <img src="https://i.imgur.com/DkHpc3a.jpeg" alt="sheik" style="width: 50px; height: 50px; object-fit: cover;">
+      </a>
+    </td>
+    <td style="text-align: center; margin-right: 20px;">
+      <a href="https://www.instagram.com/Ribeirowxz">
+        <img src="https://i.imgur.com/xqmiMSG.png" alt="ribeiro" style="width: 50px; height: 50px;">
+      </a>
+    </td>
+    <td style="text-align: center;">
+    </td>
+  </tr>
+</table>
