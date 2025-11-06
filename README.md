@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Pensado e realizado em prol da comunidade de FreeFire, por LOCKSS.</em>
+  <em>Pensado e realizado em prol da comunidade de FreeFire, por Lock.</em>
 </p>
 
 
@@ -23,9 +23,9 @@
 
 ## Introdução
 
-LOCKSS é um scanner para dispositivos Android que tem o objetivo de reunir logs e arquivos suspeitos em questão de segundos de utilização.
+LockerSS é um scanner para dispositivos Android que tem o objetivo de reunir logs e arquivos suspeitos em questão de segundos de utilização.
 
-**Por que usar o LOCKSS?**
+**Por que usar o LockerSS?**
 
 O projeto tem como principal função facilitar o trabalho dos analistas em suas telagens, que contem várias funções, como:
 
@@ -39,14 +39,6 @@ O projeto tem como principal função facilitar o trabalho dos analistas em suas
 
 
 #### <img width="2%" src="https://simpleicons.org/icons/diagramsdotnet.svg">&emsp13; Faça o download do Termux:
-
-
-| Aplicativo                  | Descrição                |
-|----------------------------|---------------------------|
-| [Termux](https://cdn.discordapp.com/attachments/1348094420620279849/1353232408635248720/Termux_ALLIANCE.apk?ex=67eacaa4&is=67e97924&hm=d782777ad6e4d9b90eb62a19fb94b98efb4c4630a7a9383510884daf02cc7ab7&) | Terminal utilizado para rodar o scanner   |
-| [Tutorial](https://www.youtube.com/watch?v=RF7O1MHThsE&t=8s) | Tutorial ensinando a como utilizar   |
-
-
 
 #### <img width="2%" src="https://simpleicons.org/icons/gnometerminal.svg">&emsp13; Rode utilizando o Termux:
 
