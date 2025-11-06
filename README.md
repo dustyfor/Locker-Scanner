@@ -65,7 +65,7 @@ Um grande agradecimento aos membros abaixo por seu trabalho incrível e contribu
   <tr>
     <td style="text-align: center; margin-right: 20px;">
       <a href="https://www.instagram.com/raonylz">
-        <img src="" alt="Lock" style="width: 50px; height: 50px;">
+        <img src="https://media.discordapp.net/attachments/1403897335011999826/1425003048308310057/IMG_6562.png?ex=690ce541&is=690b93c1&hm=26f6646a8b62798b1dc40faf646d391b5a2eb74bf8d4e35db0b5f0e2840037da&=&format=webp&quality=lossless&width=611&height=601" alt="Lock" style="width: 50px; height: 50px;">
       </a>
     </td>
     <td style="text-align: center; margin-right: 20px;">
@@ -75,7 +75,7 @@ Um grande agradecimento aos membros abaixo por seu trabalho incrível e contribu
     </td>
     <td style="text-align: center; margin-right: 20px;">
       <a href="https://www.instagram.com/vitin1yx">
-        <img src="https://i.imgur.com/xqmiMSG.png" alt="Junkye" style="width: 50px; height: 50px;">
+        <img src="https://media.discordapp.net/attachments/1386219542346465283/1435835031296933928/IMG_4707.jpg?ex=690d6913&is=690c1793&hm=21f6bf80933b2e912da12e44db1ad8b1c4e4a4500dc4711315af4db58bb65a06&=&format=webp&width=571&height=695" alt="Junkye" style="width: 50px; height: 50px;">
       </a>
     </td>
     <td style="text-align: center;">
