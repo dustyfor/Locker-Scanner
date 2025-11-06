@@ -70,12 +70,12 @@ Um grande agradecimento aos membros abaixo por seu trabalho incrível e contribu
     </td>
     <td style="text-align: center; margin-right: 20px;">
       <a href="[https://discord.gg/bytexunk]">
-        <img src="https://media.discordapp.net/attachments/1397742066762776596/1435834793362325564/IMG_6850.jpg?ex=690d68db&is=690c175b&hm=0d70372657ae20e08a65595f56afe6551956851378277b0b65ab2371ca83a38e&=&format=webp&width=662&height=662" alt="Haxizin" style="width: 50px; height: 50px; object-fit: cover;">
+        <img src="https://media.discordapp.net/attachments/1386219542346465283/1435835031296933928/IMG_4707.jpg?ex=690d6913&is=690c1793&hm=21f6bf80933b2e912da12e44db1ad8b1c4e4a4500dc4711315af4db58bb65a06&=&format=webp&width=571&height=695" alt="Haxizin" style="width: 50px; height: 50px; object-fit: cover;">
       </a>
     </td>
     <td style="text-align: center; margin-right: 20px;">
       <a href="https://www.instagram.com/vitin1yx">
-        <img src="https://media.discordapp.net/attachments/1386219542346465283/1435835031296933928/IMG_4707.jpg?ex=690d6913&is=690c1793&hm=21f6bf80933b2e912da12e44db1ad8b1c4e4a4500dc4711315af4db58bb65a06&=&format=webp&width=571&height=695" alt="Junkye" style="width: 50px; height: 50px;">
+        <img src="https://media.discordapp.net/attachments/1397742066762776596/1435834793362325564/IMG_6850.jpg?ex=690d68db&is=690c175b&hm=0d70372657ae20e08a65595f56afe6551956851378277b0b65ab2371ca83a38e&=&format=webp&width=662&height=662" alt="Junkye" style="width: 50px; height: 50px;">
       </a>
     </td>
     <td style="text-align: center;">
